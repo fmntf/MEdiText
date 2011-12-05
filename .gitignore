@@ -1,0 +1,8 @@
+*.o
+meditext
+qrc_resources.cpp
+moc_meditext.cpp
+moc_preferences.cpp
+ui_meditext.h
+ui_preferences.h
+nbproject
